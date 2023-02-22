@@ -29,6 +29,10 @@ wx:for-item="item">
 ></loading>
 
 ```
+my-wechat-app
+![image](https://user-images.githubusercontent.com/7553539/220610678-20c60052-db2b-4540-bccf-bce6d3a2047d.png)
+
+
 
 paging.gif
 [![paging.gif](https://github.com/intbird/wechat-app-paging/blob/main/paging.gif)](https://github.com/intbird/wechat-app-paging/blob/main/paging.gif)
